@@ -1,0 +1,7 @@
+Bundle-Name: poc-module-item-selector-layouts
+Bundle-SymbolicName: poc.module.item.selector.layouts
+Bundle-Version: 1.0.0
+Export-Package: poc.module.item.selector.layouts.constants
+Include-Resource:\
+        META-INF/resources=src/main/resources/META-INF/resources
+Web-ContextPath: /poc-module-item-selector-layouts
